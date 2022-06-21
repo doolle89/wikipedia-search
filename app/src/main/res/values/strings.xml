@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WikipediaSearchApp</string>
+    <string name="error_article_result">\"Article loading failed:\n%1$s\"</string>
+    <string name="button_search">Search</string>
+    <string name="search_hint">Search here</string>
+    <string name="error_empty_body">Unknown error</string>
+</resources>
